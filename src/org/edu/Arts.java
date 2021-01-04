@@ -5,7 +5,7 @@ public void bsc() {
 	System.out.println("Bsc : checmistry, Maths, pyhsics");
 
 }
-public void bEd() {
+public void bSc() {
 	System.out.println("BEd : English, Tamil, Science");
 
 }
@@ -28,7 +28,7 @@ private void bBA() {
 public static void main(String[] args) {
 	Arts e = new Arts();
 	e.bsc();
-	e.bEd();
+	e.bSc();
 	e.bA();
 	e.bBA();
 	e.ug();
